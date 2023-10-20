@@ -6,10 +6,11 @@ main {
 
 .icons {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
     height: 72vh;
-    gap: 300px;
+
 }
 
 .icons img:hover {
