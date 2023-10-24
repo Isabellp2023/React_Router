@@ -15,7 +15,7 @@ const Botones = () => {
         src="./icons/paleta1.jpg"
         alt="paleta colores"
       />
-      <a href="https://htmlcolorcodes.com/es/recursos/mejor-paleta-de-colores-generadores/">Paleta</a>
+      <a href="https://htmlcolorcodes.com/es/recursos/mejor-paleta-de-colores-generadores/">Paleta de colores</a>
       <img
         className="botones"
         src="./icons/botones.jpg"
