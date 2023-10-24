@@ -14,13 +14,13 @@ const Header = () => {
         <nav>
           <ul>
             <li>
-              <NavLink to="/">Palette</NavLink>
+              <NavLink to="/">Inicio</NavLink>
             </li>
             <li>
-              <NavLink to="/botones">Botones</NavLink>
+              <NavLink to="/botones">Código</NavLink>
             </li>
             <li>
-              <NavLink to="/simbolo">Simbolo</NavLink>
+              <NavLink to="/simbolo">Contacto</NavLink>
             </li>
           </ul>
         </nav>

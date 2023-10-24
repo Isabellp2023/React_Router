@@ -15,9 +15,7 @@ ul {
     list-style-type: none;
 }
 
-main {
-    min-height: calc(100vh - 150px - 80px);
-}
+
 
 h2 {
     color: white;

@@ -1,6 +1,12 @@
+import "./Paleta.css";
 const Paleta = () => {
     return(
-        <h2>Paleta</h2>
+        <>
+		<div className="palet">
+		<h2>prueba</h2>
+		</div>
+        
+</>
     )
 }
 export default Paleta;
