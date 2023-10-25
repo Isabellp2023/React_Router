@@ -2,9 +2,9 @@ import './Footer.css';
 
 function Footer() {
   return (
-    <footer className="footer">
+    <div className="footer">
       <p>Promoviendo la inclusión digital con la Fundación ONCE - 2023</p>
-    </footer>
+    </div>
   );
 }
 

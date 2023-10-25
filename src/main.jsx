@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
          <Route index element={<Paleta />}/>
          <Route path='/simbolo' element={<Simbolo />}/>
          <Route path='/botones' element={<Botones />}/>
-        <Route path='*' element={<NotFound />}></Route>
+        <Route path='*' element={<NotFound />}/>
         </Route>
       </Routes>
     </BrowserRouter>

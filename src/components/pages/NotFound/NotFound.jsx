@@ -1,4 +1,12 @@
+import "./NotFound.css";
+
 const NotFound = () => {
-    return <h2>NotFound</h2>;
+    return (
+        <>
+    <div className="error">
+    <img src="public/error.png" alt="Página no encontrada" />
+    </div>
+    </>
+    );
 };
 export default NotFound;
