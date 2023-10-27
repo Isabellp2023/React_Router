@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 60vh;
+    height: 80vh;
     background-color: #000;
     color: #fff;
     padding: 10px;
@@ -39,17 +39,15 @@
 
 .texto {
     text-align: center;
+    margin: 60px 0;
 }
 
 h1 {
     font-size: 40px;
-    margin: 10px 0;
-    padding: 0;
-    gap: 40px;
     color: aquamarine;
 }
 
-p {
-    font-size: 25px;
-    margin: 10px 0;
+.texto p {
+    font-size: 35px;
+    margin: 50px 0;
 }
